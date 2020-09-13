@@ -20,6 +20,6 @@ This is a graduate level course project at ITU Aerospace Department. The results
 
 
 ## Occupancy Detection in a Room Environment
-[Go to Notebook](../FlightPhaseClustering_with_Autoencoder.ipynb)
+[Go to Notebook](../OccupancyDetection.ipynb)
 
 A beginner project with a toy dataset. Good for experimenting.
